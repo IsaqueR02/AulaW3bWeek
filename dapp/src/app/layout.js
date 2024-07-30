@@ -3,7 +3,7 @@ import "./globals.css";
 export const metadata = {
   title: "FloodHelp",
   description: "Ajude os desabrigados pelas enchentes",
-  charset: "utf-8"
+  charSet: "utf-8"
 };
 
 export default function RootLayout({ children }) {
